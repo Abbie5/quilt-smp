@@ -240,6 +240,11 @@ hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
 metafile = true
 
 [[files]]
+file = "mods/maxhealthfixfixfix.pw.toml"
+hash = "9df6f240a18c4d7a3e7bc52348a1e04613c0ac19b5e29ef24138ddf59e222a3b"
+metafile = true
+
+[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "05375196fd872971a01edda09dad35f671de80df363ee68a6abd96557b62e337"
 metafile = true
