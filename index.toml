@@ -15,6 +15,16 @@ hash = "1e494492653e881a139969a339e444b76ebfc53f1fe90769e03c374aa446e327"
 metafile = true
 
 [[files]]
+file = "mods/ages.pw.toml"
+hash = "dffe4bf8e0d917ff0d789405a6c130f3ebc0c0fde74f340f5cd6444c2a5b41ec"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -125,8 +135,23 @@ hash = "8b560c36f58927c3625974f71c8532aac563acea558a2a192cad08c6ddaca62a"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "c0c6e75c4632b7b451a2bf5cb99f9654bf3fc3bb6a2ad9df660f63321a9d9928"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "bf4caa5dc97f8220b13500269cc4b34b7ff9fb6e561dda3603cb05a3564e6d3e"
 metafile = true
 
 [[files]]
@@ -137,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "7267495bbb4a672184a23f53b22be538182568c9de868607ba0f48eb443f4579"
+metafile = true
+
+[[files]]
+file = "mods/experienced_crops.pw.toml"
+hash = "96933d7137dd25472c2057e093de87cf7f7d3c12aab36f17ae8b8a3d65c6623d"
 metafile = true
 
 [[files]]
@@ -225,6 +255,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "434aa72d89030fbe6bb07e7b4518cea1863bad462ea7beae16594adc1a48e1ad"
 metafile = true
@@ -232,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/neepmeat.pw.toml"
 hash = "d8e14a99cd65483c3910afc85ed8429715da7c9195fef710d9fb0e0c079314cc"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
@@ -340,6 +380,11 @@ hash = "1770b6174098a4030168201496a481fd9c335010104770b84636f17f3ef523c2"
 metafile = true
 
 [[files]]
+file = "mods/techreborn.pw.toml"
+hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
+metafile = true
+
+[[files]]
 file = "mods/tempad.pw.toml"
 hash = "0a3a680ed7c131426ffe490a94bb7d35e456fd586c83a8fb321b0a77e1eb6eb2"
 metafile = true
@@ -350,8 +395,18 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "df07a6439b57af5af4e0397061bb994f9b7f369043bc8ea900586df6db7a1ca4"
+metafile = true
+
+[[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "6f1753c4ae3446f7e91bc147588e9dd7b50283075b25ef8bb017099042078157"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b0da7edfef408febcb721292cc11f27a5c2b234f6aea003ad7e0e787be10a979"
 metafile = true
 
 [[files]]
