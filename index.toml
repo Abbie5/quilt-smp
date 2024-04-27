@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/sandwichable.pw.toml"
-hash = "2918e3e4edf2b2e22a987e9b9d5e45a98e743a76a543dd5da61e768a2ea17502"
+hash = "85d3ebe70a0a9451d9129bbd8863e3846056d82e722ffd918df1c840a01e6395"
 metafile = true
 
 [[files]]
