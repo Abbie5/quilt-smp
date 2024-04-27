@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "b20e46e7282424f8547830835d2d48f53fd403f499c74b7ae61c7bc157d1098d"
+hash = "04d9bc64955fd94886a898881db68a2018551090725a01b2706c0df282e24e7a"
 metafile = true
 
 [[files]]
