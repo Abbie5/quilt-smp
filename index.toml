@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "3808ddddaeabff56ca1cac7fda6aeaf583b8865e54d51e18ef3462f9755ea75a"
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
 metafile = true
@@ -354,3 +358,7 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "6433aa1337792bf2e812b76acf2f92e1a8113287d1978e3ca89498783e672f79"
 metafile = true
+
+[[files]]
+file = "resources/assets/emi/index/stacks/abbies_quilt_smp.json"
+hash = "6bee1537b9b323e355150065665ec3b2f9d578a6ddf6516096818888c71e0435"
