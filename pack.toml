@@ -1,0 +1,13 @@
+name = "Abbie's Quilt SMP"
+author = "Abbie"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b93903574b176ee40b62cbaf0fc1972dee5111340cc3e1ba04fd3deb38b656c7"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.25.0"
