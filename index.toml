@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "f84a9731c069d4ced4f3e47e454194c7afec7015d1ce8790519d9cce7586abc6"
+hash = "e4d600cf0faa0584291f155fa1e5fb73baa8aecc2139042d7b3154f306de6e54"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "d8e14a99cd65483c3910afc85ed8429715da7c9195fef710d9fb0e0c079314cc"
+hash = "6925ed917b1db82758f1275e359e643a481ef7725144149ca42d52d38c8965ed"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "1be38dae674eea57c9a042f16b279ad80a6bca53d422e7a3c1abf0f04e10b924"
+hash = "77520b0d6b6d512b3fac85990e2d45d67c3ed7fdffb56db013e7b0660e69ffb2"
 metafile = true
 
 [[files]]
