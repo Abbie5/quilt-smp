@@ -153,6 +153,11 @@ hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
+metafile = true
+
+[[files]]
 file = "mods/deep-mob-learning-refabricated.pw.toml"
 hash = "8b560c36f58927c3625974f71c8532aac563acea558a2a192cad08c6ddaca62a"
 metafile = true
