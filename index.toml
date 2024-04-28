@@ -432,3 +432,15 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "6433aa1337792bf2e812b76acf2f92e1a8113287d1978e3ca89498783e672f79"
 metafile = true
+
+[[files]]
+file = "resources/data/abbies_quilt_smp/recipes/create/mixing/brine.json"
+hash = "bf8555ed3c56e54e6f3a679f8b65ae9eac8fd0786ed63f78cfda992fa5645b32"
+
+[[files]]
+file = "resources/data/abbies_quilt_smp/recipes/modern_industrialization/mixer/brine.json"
+hash = "12e289e0274e645820452e71b02bdd4299fe4bf7f625b29292b1f335334445a8"
+
+[[files]]
+file = "resources/data/c/tags/items/salt_dusts.json"
+hash = "937cb2f40b16d6b3fbc252e1acced4a50448750a95c6d5422f033fcb8a294b80"
