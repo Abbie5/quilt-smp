@@ -4,9 +4,11 @@
     "kubejs",
     "crafttweaker",
     "create",
-    "techreborn",
     "modern_industrialization",
-    "indrev"
+    "techreborn",
+    "indrev",
+    "bewitchment",
+    "ad_astra"
   ],
   "stoneStrata": [
     "stone",
@@ -43,6 +45,7 @@
     "bronze",
     "charcoal",
     "chrome",
+    "chromium",
     "cinnabar",
     "coal",
     "coal_coke",

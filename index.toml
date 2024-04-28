@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "e573852e384a2cae37bcbc70e83e404b82b52925f9ea03b90f0fcf323b9209ad"
+hash = "0c70205439b99481986dff159d287e0677c061a91d89e4a04be50918b8736190"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -508,6 +508,10 @@ hash = "bf8555ed3c56e54e6f3a679f8b65ae9eac8fd0786ed63f78cfda992fa5645b32"
 [[files]]
 file = "resources/data/abbies_quilt_smp/recipes/modern_industrialization/mixer/brine.json"
 hash = "12e289e0274e645820452e71b02bdd4299fe4bf7f625b29292b1f335334445a8"
+
+[[files]]
+file = "resources/data/c/tags/items/raw_silver_ores.json"
+hash = "b2bb152e8a0776c218474b1391e6711223a8965558adbb1ba5387062dde301f6"
 
 [[files]]
 file = "resources/data/c/tags/items/salt_dusts.json"
