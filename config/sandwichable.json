@@ -1,0 +1,20 @@
+{
+    "showInfoTooltips": true,
+    "infoTooltipKeyBind": "SHIFT",
+    "slowEatingLargeSandwiches": true,
+    "baseSandwichEatTime": 32,
+    "itemOptions": {
+        "saltItem": "sandwichable:salt",
+        "cucumberItem": "sandwichable:cucumber",
+        "pickledCucumberItem": "sandwichable:pickled_cucumber",
+        "burntFoodItem": "sandwichable:burnt_food",
+        "burntMorselItem": "sandwichable:burnt_morsel"
+    },
+    "saltySandGenOptions": {
+        "saltySand": true
+    },
+    "saltPoolGenOptions": {
+        "saltPools": false,
+        "drySaltPools": false
+    }
+}

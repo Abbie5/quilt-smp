@@ -5,6 +5,10 @@ file = "config/appleskin.json5"
 hash = "3808ddddaeabff56ca1cac7fda6aeaf583b8865e54d51e18ef3462f9755ea75a"
 
 [[files]]
+file = "config/sandwichable.json"
+hash = "32734cdde1f4feb1ae9869dee7a07102c62f3616160022eb795e36faa3e3455b"
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
 metafile = true
