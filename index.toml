@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "e573852e384a2cae37bcbc70e83e404b82b52925f9ea03b90f0fcf323b9209ad"
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "3808ddddaeabff56ca1cac7fda6aeaf583b8865e54d51e18ef3462f9755ea75a"
 
