@@ -1,0 +1,13 @@
+name = "Fishing Paradise"
+filename = "fishingparadise-1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PUyoLtZT/versions/oo8IMO4F/fishingparadise-1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "c2cfbac2b571d29807dc9e3680e389f96108a6d5"
+
+[update]
+[update.modrinth]
+mod-id = "PUyoLtZT"
+version = "oo8IMO4F"
