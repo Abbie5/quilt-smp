@@ -247,6 +247,16 @@ hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "62eeeb1733f37ec138fc076c20d39a12c3d5020b4b67147a523d2fad118da9ff"
+metafile = true
+
+[[files]]
+file = "mods/hephaestusplus.pw.toml"
+hash = "b96ce3cc2eaaf8258df3944886175016c44bd5411714bef82e76bd9ecf823916"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "7f664a1b293b31699f1263340c24010d5312f5dd0eba6bb211d07503315caf71"
 metafile = true
@@ -516,3 +526,7 @@ hash = "b2bb152e8a0776c218474b1391e6711223a8965558adbb1ba5387062dde301f6"
 [[files]]
 file = "resources/data/c/tags/items/salt_dusts.json"
 hash = "937cb2f40b16d6b3fbc252e1acced4a50448750a95c6d5422f033fcb8a294b80"
+
+[[files]]
+file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
