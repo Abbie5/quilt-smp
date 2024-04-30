@@ -21,6 +21,10 @@ file = "config/fabrication/features.ini"
 hash = "e2ed3e8bf1f56220bf53bb93016b161b057b0fb6693dc3e0550ca676c20ab40c"
 
 [[files]]
+file = "config/indrev/oregen.json"
+hash = "5a27cdce4817379afd1f7fb466662996bf32b44079369509a985abefb254a293"
+
+[[files]]
 file = "config/modern_industrialization.toml"
 hash = "0dec2ec901e7beb9a5606e2d47541522f17ee288147a4d9317e6bf2f589b88cc"
 
