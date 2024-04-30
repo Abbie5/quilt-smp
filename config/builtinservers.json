@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "Abbie's Quilt SMP",
+      "address": "raknet;quilt.abbie.cc",
+      "forced": true
+    }
+  ]
+}

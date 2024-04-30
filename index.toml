@@ -9,6 +9,10 @@ file = "config/appleskin.json5"
 hash = "3808ddddaeabff56ca1cac7fda6aeaf583b8865e54d51e18ef3462f9755ea75a"
 
 [[files]]
+file = "config/builtinservers.json"
+hash = "5289ce6e4e339fa6a51c2e5c99f47bed58bc756083c257086cd18402bbd653ef"
+
+[[files]]
 file = "config/modern_industrialization.toml"
 hash = "0dec2ec901e7beb9a5606e2d47541522f17ee288147a4d9317e6bf2f589b88cc"
 
@@ -114,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "a07df640cea0bf2d269266390aee0341e17eb5e1bf73712f003b661863bcabed"
+metafile = true
+
+[[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "a58721796367f9247ad863b063d67638a6824dd0a342da690a0c1a0418e367e8"
 metafile = true
 
 [[files]]
@@ -529,4 +538,4 @@ hash = "937cb2f40b16d6b3fbc252e1acced4a50448750a95c6d5422f033fcb8a294b80"
 
 [[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "c4ebb9f7e3c6310d291a0e19e7bcbc9c42b3ecad0de4c14ac1b993d5384fd844"
