@@ -191,6 +191,11 @@ hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome-fabric.pw.toml"
+hash = "19c20c83a6a3b6003675ad9f5f8447d1f372a18683d871843914e08333c1952f"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "515401aa2bd4394d05d410a306d1890a3094c6121e1861c48e6a45f05bd7f01b"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
@@ -236,6 +246,11 @@ hash = "04d9bc64955fd94886a898881db68a2018551090725a01b2706c0df282e24e7a"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "47bafe11594fcb8478584c0be20d7b530fb058f3f788dca343359a4b40984532"
 metafile = true
@@ -248,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/fishingparadise.pw.toml"
 hash = "4f051d0726358f0246842fd117fc18c58b8e973fa1707dd0212e499cf8afff9f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -388,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "e08fdeed1d56d03938bc66e2f34fefe5df150afb6e8ec4d318f354d6413ec0ba"
 metafile = true
 
 [[files]]
