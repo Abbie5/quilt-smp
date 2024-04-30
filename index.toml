@@ -29,6 +29,10 @@ file = "config/sandwichable.json"
 hash = "32734cdde1f4feb1ae9869dee7a07102c62f3616160022eb795e36faa3e3455b"
 
 [[files]]
+file = "config/tconstruct-common.toml"
+hash = "fb8b09a076cf02400e734736ff57108376efac8e4f1931c577afde1407cc8fd8"
+
+[[files]]
 file = "config/techreborn/world.json"
 hash = "212c95191c56c8c2d8070b1cc418d00f7a9e8507b8a159a441d9bf92f04252c2"
 
