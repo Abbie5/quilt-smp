@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "e4d600cf0faa0584291f155fa1e5fb73baa8aecc2139042d7b3154f306de6e54"
+hash = "4b8464775c9f530541346e8a1a73f2cedc3bb8f01df9cca4da0b00be19149c7b"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/deep-mob-learning-refabricated.pw.toml"
-hash = "8b560c36f58927c3625974f71c8532aac563acea558a2a192cad08c6ddaca62a"
+hash = "afe05cfba4e128779f08d63c3742798b1847759a6455e55e4195486c973cec76"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "515401aa2bd4394d05d410a306d1890a3094c6121e1861c48e6a45f05bd7f01b"
+hash = "3b9e5b026c267aac9ea4c2747f8ad9eb37a7d400f7a529870a4193870f6a28da"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "6d084c374baf3f5168236755b2dd68e66a1e463dfdeffdd3ffe55a1fd5271dac"
+hash = "d30518783eb28af0bc9c90315bee1f65368daece3e3ba6957a85b11b6da67478"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "47bafe11594fcb8478584c0be20d7b530fb058f3f788dca343359a4b40984532"
+hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
+hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "6925ed917b1db82758f1275e359e643a481ef7725144149ca42d52d38c8965ed"
+hash = "f31c091c7e98df08488e3cf298599bb4fbb094ce9c0fbe9a2128804a53239ae0"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "77520b0d6b6d512b3fac85990e2d45d67c3ed7fdffb56db013e7b0660e69ffb2"
+hash = "025234450612bb71d2692b901bcfa5c93ad931c67a0019260eb8cead4396c10f"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "49df6b5421c0576ffd3774a6314a03ae32d14a5308fd50c8a67c46f5865098ab"
+hash = "8d1622b8c49c1b30a07f0ce9999f1e08d2a8e93294be38cae1fd6299065b9490"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "1770b6174098a4030168201496a481fd9c335010104770b84636f17f3ef523c2"
+hash = "751551d8ce556a64e31a9c8f4e27c4997e8c1806e7eccab468977adcb6736941"
 metafile = true
 
 [[files]]
@@ -552,12 +552,12 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "6f1753c4ae3446f7e91bc147588e9dd7b50283075b25ef8bb017099042078157"
+hash = "1657d0714c46b67a1cec4a07472d6c47a3f1cd45fa2fef52a14cd56c0c8d7751"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "53d5669382a7020135b03e2f30a0bce2fe5d9cb62c853ce06b5274169c9d4542"
+hash = "120a21fa73bcc231ebb23dd30fc32b1da54ced4ab62c5e3f052927e06d422f1c"
 metafile = true
 
 [[files]]
@@ -572,6 +572,10 @@ hash = "bf8555ed3c56e54e6f3a679f8b65ae9eac8fd0786ed63f78cfda992fa5645b32"
 [[files]]
 file = "resources/data/abbies_quilt_smp/recipes/modern_industrialization/mixer/brine.json"
 hash = "12e289e0274e645820452e71b02bdd4299fe4bf7f625b29292b1f335334445a8"
+
+[[files]]
+file = "resources/data/c/tags/blocks/bauxite_ores.json"
+hash = "810989b5a61b2177873d4c76487a538a66a1293715600a87dea3b77c8c75957a"
 
 [[files]]
 file = "resources/data/c/tags/items/raw_silver_ores.json"
