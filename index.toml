@@ -594,10 +594,6 @@ file = "resources/data/c/tags/fluids/molten_lead.json"
 hash = "17678ebf6d72c6f68a963e883a86578a8f54981590040c699ea2eb01265b3d82"
 
 [[files]]
-file = "resources/data/c/tags/fluids/molten_netherite.json"
-hash = "8735e508a18b38dbf69ccb089799be4a0c7a0be15c0c7f517494977d2e8662f8"
-
-[[files]]
 file = "resources/data/c/tags/fluids/molten_silver.json"
 hash = "805716aac64b3ce951b016bed748ae8cc435c14c8f9affe92713458c098bc14f"
 
@@ -616,3 +612,7 @@ hash = "937cb2f40b16d6b3fbc252e1acced4a50448750a95c6d5422f033fcb8a294b80"
 [[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
 hash = "c4ebb9f7e3c6310d291a0e19e7bcbc9c42b3ecad0de4c14ac1b993d5384fd844"
+
+[[files]]
+file = "resources/data/tconstruct/tags/fluids/molten_debris.json"
+hash = "8735e508a18b38dbf69ccb089799be4a0c7a0be15c0c7f517494977d2e8662f8"
