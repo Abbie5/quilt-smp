@@ -16,7 +16,13 @@
     "deepslate",
     "granite",
     "diorite",
-    "andesite"
+    "andesite",
+    "blackslag",
+    "moon",
+    "mars",
+    "mercury",
+    "venus",
+    "glacio"
   ],
   "tags": [
     "c:{material}_nuggets",
