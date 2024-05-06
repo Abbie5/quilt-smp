@@ -578,6 +578,34 @@ file = "resources/data/c/tags/blocks/bauxite_ores.json"
 hash = "810989b5a61b2177873d4c76487a538a66a1293715600a87dea3b77c8c75957a"
 
 [[files]]
+file = "resources/data/c/tags/fluids/molten_copper.json"
+hash = "c7ab20f707aac4110182fea093a3e0de341ca672e418d3bb4b99c256944e4c43"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_gold.json"
+hash = "2b1831444bf54000c1d5e936aee1f5007adc73a9ad499f5ce9583d8ccfae8260"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_iron.json"
+hash = "7c68de5993885a55b89becd8cfa89d9b75811d6c362e6429d5d2cc862de395f1"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_lead.json"
+hash = "17678ebf6d72c6f68a963e883a86578a8f54981590040c699ea2eb01265b3d82"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_netherite.json"
+hash = "8735e508a18b38dbf69ccb089799be4a0c7a0be15c0c7f517494977d2e8662f8"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_silver.json"
+hash = "805716aac64b3ce951b016bed748ae8cc435c14c8f9affe92713458c098bc14f"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_tin.json"
+hash = "8a6ca3cbc216826dadaa7ce554536d6a2d3fcdbf2c73cb77cdfb02c206277ea8"
+
+[[files]]
 file = "resources/data/c/tags/items/raw_silver_ores.json"
 hash = "b2bb152e8a0776c218474b1391e6711223a8965558adbb1ba5387062dde301f6"
 

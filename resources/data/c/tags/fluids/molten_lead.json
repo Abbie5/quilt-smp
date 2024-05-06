@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "indrev:molten_lead_still",
+    "indrev:molten_lead_flowing"
+  ]
+}
