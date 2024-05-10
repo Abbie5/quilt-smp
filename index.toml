@@ -166,6 +166,11 @@ hash = "57cfa52bd7cc0f56aebb5658236ba2205d0f906a60227912d350ff752f996c2f"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "43955855758931bdd6be5b736278141a700265181cecf7ad9d8ae196dad89c5c"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "5b0c16b9d7b811b3f60fd77055392012b40c8660000f9fb94b488b589d27bdaa"
 metafile = true
@@ -178,6 +183,16 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
+metafile = true
+
+[[files]]
+file = "mods/create-air-fabric.pw.toml"
+hash = "c5ed8f788371776fa029b0e5a2ea95b56ffd7611a1b31dc93100d39d0f1fcbd5"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
 
 [[files]]
@@ -231,6 +246,11 @@ hash = "3b9e5b026c267aac9ea4c2747f8ad9eb37a7d400f7a529870a4193870f6a28da"
 metafile = true
 
 [[files]]
+file = "mods/emiffect.pw.toml"
+hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
+metafile = true
+
+[[files]]
 file = "mods/emitrades.pw.toml"
 hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
@@ -253,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "d30518783eb28af0bc9c90315bee1f65368daece3e3ba6957a85b11b6da67478"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "8fcc97c8788ad77b7587f4879e9e4ccac7bec43aeceeb7dcdb993eacc645c323"
 metafile = true
 
 [[files]]
@@ -291,8 +316,18 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
+metafile = true
+
+[[files]]
+file = "mods/glassential-fabric.pw.toml"
+hash = "0abcb9c5ee6e4ddbe34819c1da9ed26965614b89eb33d5cdeec3310b39b9fd1b"
 metafile = true
 
 [[files]]
@@ -386,6 +421,11 @@ hash = "434aa72d89030fbe6bb07e7b4518cea1863bad462ea7beae16594adc1a48e1ad"
 metafile = true
 
 [[files]]
+file = "mods/music-sync.pw.toml"
+hash = "f562fc7d065d9c764e4cdb5df28be46b8b7fc70eb2aa7aedd405da536cf2370d"
+metafile = true
+
+[[files]]
 file = "mods/neepmeat.pw.toml"
 hash = "f31c091c7e98df08488e3cf298599bb4fbb094ce9c0fbe9a2128804a53239ae0"
 metafile = true
@@ -438,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/raknetify.pw.toml"
 hash = "025234450612bb71d2692b901bcfa5c93ad931c67a0019260eb8cead4396c10f"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "a8e48a0dadfaa8492f5e46ed3555dcaa2f6cb15bf7b7819fef018ec3e60d3706"
 metafile = true
 
 [[files]]
@@ -511,6 +556,16 @@ hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "751551d8ce556a64e31a9c8f4e27c4997e8c1806e7eccab468977adcb6736941"
 metafile = true
@@ -533,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
+metafile = true
+
+[[files]]
+file = "mods/thaumon.pw.toml"
+hash = "014c8b508f22e592baa055290ca237a807381590fa4dc4748f88a56f4e1e17b9"
 metafile = true
 
 [[files]]
