@@ -662,6 +662,18 @@ file = "resources/data/c/tags/fluids/molten_tin.json"
 hash = "8a6ca3cbc216826dadaa7ce554536d6a2d3fcdbf2c73cb77cdfb02c206277ea8"
 
 [[files]]
+file = "resources/data/c/tags/items/copper_nuggets.json"
+hash = "14e1b4327899d5d4cfd4c3290b395b315992c35d4a390ac6dd9eac7960207217"
+
+[[files]]
+file = "resources/data/c/tags/items/ingots.json"
+hash = "3f8137582634d821eb0e7e0561bcd61ec5f1492c589816ea002fc527eed69891"
+
+[[files]]
+file = "resources/data/c/tags/items/netherite_nuggets.json"
+hash = "3dc770064d0e4b27b59fe049ad9de9200948775afda013177f52da77be12eb47"
+
+[[files]]
 file = "resources/data/c/tags/items/raw_silver_ores.json"
 hash = "b2bb152e8a0776c218474b1391e6711223a8965558adbb1ba5387062dde301f6"
 
