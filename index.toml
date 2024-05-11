@@ -682,6 +682,10 @@ file = "resources/data/c/tags/items/salt_dusts.json"
 hash = "937cb2f40b16d6b3fbc252e1acced4a50448750a95c6d5422f033fcb8a294b80"
 
 [[files]]
+file = "resources/data/c/tags/items/zinc_plates.json"
+hash = "ff2c0af01e2dd588bb73594b4ffa8445e22b15978add90dbea17c942d1341ebe"
+
+[[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
 hash = "c4ebb9f7e3c6310d291a0e19e7bcbc9c42b3ecad0de4c14ac1b993d5384fd844"
 
