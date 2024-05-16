@@ -41,6 +41,10 @@ file = "config/techreborn/world.json"
 hash = "212c95191c56c8c2d8070b1cc418d00f7a9e8507b8a159a441d9bf92f04252c2"
 
 [[files]]
+file = "config/waila/waila_plugins.json"
+hash = "841791fc9a03f20e461fd5f034e2cfaded8df3ab067b66b55f409f6de5946a12"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
@@ -72,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "6c483e8e94d759e8ba17d339f19b36d745ca6396418c7d96619fa951491ab5f1"
+hash = "843e780dda3f4b7fa895dbe2ed549cfce7d76de22b9017c89905ab797a2a6a43"
 metafile = true
 
 [[files]]
@@ -327,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
+hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
 
 [[files]]
@@ -437,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "3aea264b192b43936a734b27f3362baa9a4f6da26101d5366fdc5b7238d218bf"
+hash = "df3bf405458a14ae114177c33956530f4fe98b2962b9446e9b7955c5e09dee17"
 metafile = true
 
 [[files]]
@@ -448,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/maxhealthfixfixfix.pw.toml"
 hash = "9df6f240a18c4d7a3e7bc52348a1e04613c0ac19b5e29ef24138ddf59e222a3b"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "b0bc82b0c52bcdef851e0e0e055f6a65f3c2fe6b8a3e255f0dc32a3ed6b6ac08"
 metafile = true
 
 [[files]]
@@ -632,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
 metafile = true
 
 [[files]]
@@ -687,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
+hash = "4371feacbfd7b741fdd3616f8cd7845e8cb2a0773ec96ac20cc7a5b2f688000f"
 metafile = true
 
 [[files]]
