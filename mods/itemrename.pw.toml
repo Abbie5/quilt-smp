@@ -1,6 +1,6 @@
 name = "ItemRename"
 filename = "itemrename-1.0.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/i5cjb3PQ/versions/jymVKtye/itemrename-1.0.3.jar"

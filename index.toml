@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/boids.pw.toml"
-hash = "9c1a1c9b141d645c64ebe1c70f004d6ea889071ef39b057bab76ecd24302b011"
+hash = "7ce68c8af0b19d417c1aadefb370100430833bf25d664aca22ea52752f09566a"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
+hash = "5b0c16b9d7b811b3f60fd77055392012b40c8660000f9fb94b488b589d27bdaa"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemrename.pw.toml"
-hash = "f5ec4a1f805c364e2ec296faa008f515731d277900743e74974fac528715cdf0"
+hash = "3ceed5a0043906c754712700331f23c2856b355869e131b66e75c830e940ec7c"
 metafile = true
 
 [[files]]
