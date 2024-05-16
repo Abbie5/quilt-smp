@@ -830,6 +830,11 @@ hash = "d34b664ce7de027f0f4eee31fb6d23fb95dce7a075673dc09ebac0126e4752c9"
 metafile = true
 
 [[files]]
+file = "mods/windchimes.pw.toml"
+hash = "36f88eeb3fa5462616161820cace08473a985dbc243fbc85f1deed553e25efb6"
+metafile = true
+
+[[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "1657d0714c46b67a1cec4a07472d6c47a3f1cd45fa2fef52a14cd56c0c8d7751"
 metafile = true
