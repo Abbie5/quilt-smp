@@ -728,16 +728,28 @@ file = "resources/data/c/tags/blocks/bauxite_ores.json"
 hash = "810989b5a61b2177873d4c76487a538a66a1293715600a87dea3b77c8c75957a"
 
 [[files]]
+file = "resources/data/c/tags/fluids/molten_brass.json"
+hash = "e57dcf8e446ec8df739a7f20a11a6d4b90e2bcec25d137faaf764a294b3011d5"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_bronze.json"
+hash = "b8cb0c83a530afe63deb56b5d3577f6adc04bfd7aac1ceda5f0ef253ec11644a"
+
+[[files]]
 file = "resources/data/c/tags/fluids/molten_copper.json"
-hash = "c7ab20f707aac4110182fea093a3e0de341ca672e418d3bb4b99c256944e4c43"
+hash = "001f35c3fa186d66093134bf35a24fcacf14ec70a06c7add896a478f594a624e"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_electrum.json"
+hash = "771fc55ec7fdad9b679401898c524f1fbace2a93d569e27b792222d97202c2dc"
 
 [[files]]
 file = "resources/data/c/tags/fluids/molten_gold.json"
-hash = "2b1831444bf54000c1d5e936aee1f5007adc73a9ad499f5ce9583d8ccfae8260"
+hash = "956e31aaa6d3ffcb8342b8751731b06158c57b81a218a2303421d83f4e753652"
 
 [[files]]
 file = "resources/data/c/tags/fluids/molten_iron.json"
-hash = "7c68de5993885a55b89becd8cfa89d9b75811d6c362e6429d5d2cc862de395f1"
+hash = "ab8de61e9d2d0e79ae40572d6173c2aeb229548e3e6560edbf534652610a2c76"
 
 [[files]]
 file = "resources/data/c/tags/fluids/molten_lead.json"
@@ -745,11 +757,19 @@ hash = "17678ebf6d72c6f68a963e883a86578a8f54981590040c699ea2eb01265b3d82"
 
 [[files]]
 file = "resources/data/c/tags/fluids/molten_silver.json"
-hash = "805716aac64b3ce951b016bed748ae8cc435c14c8f9affe92713458c098bc14f"
+hash = "bf6031915d3c737a505c91a2319f16afcb6b22767e30d874eabf54277d4a0889"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_steel.json"
+hash = "b6bd042038afd1c52db4ff3eb5d7d51ba8c33f2e988ae5bd2217383bf86949a0"
 
 [[files]]
 file = "resources/data/c/tags/fluids/molten_tin.json"
-hash = "8a6ca3cbc216826dadaa7ce554536d6a2d3fcdbf2c73cb77cdfb02c206277ea8"
+hash = "667ed1a9bc6a2c9a416e73a52ec8aab0fc85ecb5d82a07e893ae01205ba8048b"
+
+[[files]]
+file = "resources/data/c/tags/fluids/molten_zinc.json"
+hash = "b8a4b26a6ebfff9cf792d4ed754fc6a5e7f9af97c6250c2c4cdf6d6599d1fc16"
 
 [[files]]
 file = "resources/data/c/tags/items/copper_nuggets.json"
