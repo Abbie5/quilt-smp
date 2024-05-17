@@ -436,6 +436,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+metafile = true
+
+[[files]]
 file = "mods/fishingparadise.pw.toml"
 hash = "4f051d0726358f0246842fd117fc18c58b8e973fa1707dd0212e499cf8afff9f"
 metafile = true
