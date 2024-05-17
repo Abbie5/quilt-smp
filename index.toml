@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "1e494492653e881a139969a339e444b76ebfc53f1fe90769e03c374aa446e327"
+hash = "73ca8e414d5370acc3a2d6eda4f4b7f1c273c78b0f5545a8c42425dec18e22f0"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "2b115c22f739c472bc46399a036b63c59fd418e77fca52255058929b3986f2ec"
+hash = "72983ba160e1f1359c121e0ec84315a1073e24a19287c2c446efd17bf2edb3e5"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
+hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "04d9bc64955fd94886a898881db68a2018551090725a01b2706c0df282e24e7a"
+hash = "c4d412b67ffcd4d83b2a809df1dfadd49df1e852fa6d4707be61c387e3ff26bc"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "7f664a1b293b31699f1263340c24010d5312f5dd0eba6bb211d07503315caf71"
+hash = "99fdebbc717b9c350121f9e49c386120acae12274d284f6edb5fc4dfc94967de"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
+hash = "18a32f0e0cc4fa4adf85c5a4579414b661a61b255fa96411f97025ce192b2cc0"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/paucal.pw.toml"
-hash = "fee90eeefee1adbfce509b44bad47ac2e82c7571ffb69e2fadc36366bbe079ac"
+hash = "70bd66a50cefdb56ffcdaf54c4759bbf1f74ec18af9ab1803ee2c03f5e0df4b2"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/sandwichable.pw.toml"
-hash = "85d3ebe70a0a9451d9129bbd8863e3846056d82e722ffd918df1c840a01e6395"
+hash = "dfb0474aa4a09aa45438d2d20e1e1a4f93290047c20d11cb828f21861475553b"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "8d1622b8c49c1b30a07f0ce9999f1e08d2a8e93294be38cae1fd6299065b9490"
+hash = "daf95f05ddb1f2a44d0a20916fb59d32ee11b97e2e99424191356992805c905c"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/where-is-it.pw.toml"
-hash = "d34b664ce7de027f0f4eee31fb6d23fb95dce7a075673dc09ebac0126e4752c9"
+hash = "9a311a0a82190ec8d82d4dbfbf6d5ad0b9f17ad58c772622db78caf9d9f783e7"
 metafile = true
 
 [[files]]
