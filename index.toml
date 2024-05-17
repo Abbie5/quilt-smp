@@ -500,12 +500,17 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d24bd05367fb73abe1e50347adc64ebe360b8f19019f37aeb991b9b722fe95a1"
+hash = "57949ea68f4c7033d3c707f917b9144e90837301c1eb8fc4e3aac82ed49e66d5"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "4577ab7e32bd45884d94bb8605dd7d018734ad8f0c4fb1d5c76ff175a8c12198"
 metafile = true
 
 [[files]]
@@ -541,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/maxhealthfixfixfix.pw.toml"
 hash = "9df6f240a18c4d7a3e7bc52348a1e04613c0ac19b5e29ef24138ddf59e222a3b"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "53ed98a4ced0f71873473c61114d3797370f8c2e850eeca38da7d6fe0746ae0f"
 metafile = true
 
 [[files]]
@@ -851,6 +861,21 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "1657d0714c46b67a1cec4a07472d6c47a3f1cd45fa2fef52a14cd56c0c8d7751"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "38fabe4664dc1f18e816031f4acbda61afe76ab0af86ff717fb1a1363bcc910c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "ddc6a0731a3a5bba9b6d966aeb475d6f17c0252e929f6ac99726bbcf81182776"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a75fbf87d5b798154b9f569b2a4b0f17fd2d74c9f9790b44e34049bda39e3c5b"
 metafile = true
 
 [[files]]
