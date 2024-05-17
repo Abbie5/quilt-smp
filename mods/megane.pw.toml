@@ -7,9 +7,6 @@ url = "https://cdn.modrinth.com/data/ZNk5S5U6/versions/jA564k4Y/megane-fabric-20
 hash-format = "sha1"
 hash = "d514017918d33957ec765469b279050cd9567626"
 
-[option]
-optional = true
-
 [update]
 [update.modrinth]
 mod-id = "ZNk5S5U6"

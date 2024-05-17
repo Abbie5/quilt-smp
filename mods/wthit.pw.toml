@@ -7,9 +7,6 @@ url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/eOLHvosk/wthit-quilt-8.10
 hash-format = "sha1"
 hash = "be4cb7de8ce3a0fcce3490f824faedda78b52769"
 
-[option]
-optional = true
-
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
