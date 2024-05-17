@@ -22,7 +22,7 @@ hash = "c2955e85c672502f68c31e7f4e44c78176e1624a5108a1cc75ccad6e465bb7ad"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "e2ed3e8bf1f56220bf53bb93016b161b057b0fb6693dc3e0550ca676c20ab40c"
+hash = "ec10f1045dfd7ba9f1cd554ec3187e04643c38169a73712ad093e6075f946d31"
 
 [[files]]
 file = "config/indrev/oregen.json"
