@@ -856,6 +856,11 @@ hash = "e140a62f441bccc6127c54637cd411a74bb6c5b79c19515d94ebf466da553053"
 metafile = true
 
 [[files]]
+file = "mods/voxelmap-updated.pw.toml"
+hash = "e5214362ff531d5f277f6a4e060aa06975755bbeaa9c46afc5e0be4339910606"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
 metafile = true
