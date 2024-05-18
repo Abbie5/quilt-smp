@@ -241,16 +241,6 @@ hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
 metafile = true
 
 [[files]]
-file = "mods/create-air-fabric.pw.toml"
-hash = "c5ed8f788371776fa029b0e5a2ea95b56ffd7611a1b31dc93100d39d0f1fcbd5"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "4e0de0f8b7921a609612cb1fd67721e801addc4f659b909ea9a1717cd131c80b"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
@@ -338,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/experienced_crops.pw.toml"
 hash = "96933d7137dd25472c2057e093de87cf7f7d3c12aab36f17ae8b8a3d65c6623d"
-metafile = true
-
-[[files]]
-file = "mods/exposure.pw.toml"
-hash = "9820b8497ec0fdefcaa82801ca8ed125212d5f15957b139d81899b3baa88586e"
 metafile = true
 
 [[files]]
@@ -456,11 +441,6 @@ hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
-file = "mods/itemrename.pw.toml"
-hash = "3ceed5a0043906c754712700331f23c2856b355869e131b66e75c830e940ec7c"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
 metafile = true
@@ -538,11 +518,6 @@ metafile = true
 [[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "25761a3f8a1a7c4fed6435901487e46dcdbd2d915e340602f94297a6ba939ec6"
-metafile = true
-
-[[files]]
-file = "mods/music-sync.pw.toml"
-hash = "f562fc7d065d9c764e4cdb5df28be46b8b7fc70eb2aa7aedd405da536cf2370d"
 metafile = true
 
 [[files]]
@@ -718,11 +693,6 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
-metafile = true
-
-[[files]]
-file = "mods/tempad.pw.toml"
-hash = "0a3a680ed7c131426ffe490a94bb7d35e456fd586c83a8fb321b0a77e1eb6eb2"
 metafile = true
 
 [[files]]
