@@ -2,8 +2,6 @@
   "replace": false,
   "values": [
     "indrev:molten_tin_still",
-    "indrev:molten_tin_flowing",
-    "molten_metals:molten_tin",
-    "molten_metals:flowing_molten_tin"
+    "indrev:molten_tin_flowing"
   ]
 }
