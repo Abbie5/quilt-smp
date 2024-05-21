@@ -29,6 +29,10 @@ file = "config/indrev/oregen.json"
 hash = "5a27cdce4817379afd1f7fb466662996bf32b44079369509a985abefb254a293"
 
 [[files]]
+file = "config/lmft.json"
+hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
+
+[[files]]
 file = "config/modern_industrialization.toml"
 hash = "0dec2ec901e7beb9a5606e2d47541522f17ee288147a4d9317e6bf2f589b88cc"
 
