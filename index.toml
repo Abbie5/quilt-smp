@@ -14,7 +14,7 @@ hash = "1e753788f11c81d925c46a9ceaccd7274df43428437d7f7774eca50b4fd83c80"
 
 [[files]]
 file = "config/builtinservers.json"
-hash = "5289ce6e4e339fa6a51c2e5c99f47bed58bc756083c257086cd18402bbd653ef"
+hash = "ff09bce0d00db5ed9749af7fa1802516f7863888b0b911b9cfa7d693464d6fe9"
 
 [[files]]
 file = "config/extraalchemy.json"

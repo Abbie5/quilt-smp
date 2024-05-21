@@ -3,6 +3,11 @@
   "builtinServers": [
     {
       "name": "Abbie's Quilt SMP",
+      "address": "quilt.abbie.cc",
+      "forced": true
+    },
+    {
+      "name": "Abbie's Quilt SMP (Raknetify)",
       "address": "raknet;quilt.abbie.cc",
       "forced": true
     }
