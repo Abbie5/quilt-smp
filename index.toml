@@ -34,7 +34,7 @@ hash = "0dec2ec901e7beb9a5606e2d47541522f17ee288147a4d9317e6bf2f589b88cc"
 
 [[files]]
 file = "config/mythicmetals-config.json5"
-hash = "be3ec53812fc7d745611020991d1f531cafdfac6e09b0979986a304b4badf66e"
+hash = "574dc8fd43cd1f33b11eca13688abcd4b5ac93ca7d2fbe43d2f5d210cb3a5171"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
@@ -824,6 +824,10 @@ hash = "b2bb152e8a0776c218474b1391e6711223a8965558adbb1ba5387062dde301f6"
 [[files]]
 file = "resources/data/c/tags/items/salt_dusts.json"
 hash = "937cb2f40b16d6b3fbc252e1acced4a50448750a95c6d5422f033fcb8a294b80"
+
+[[files]]
+file = "resources/data/hephaestusplus/recipes/smeltery/alloys/molten_durasteel.json"
+hash = "44f9b136ae0dc329ea34c1bdfab3379ffdab463a731647b2800f8404fdffbb69"
 
 [[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
